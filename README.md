@@ -47,7 +47,9 @@
   alt="img01_sharpen" 
   width = "266px"
   height = "200px"/>
-  
+
+# Harris Corner Detector
+
 <img 
   src="https://cloud.githubusercontent.com/assets/10732162/14300410/4a1ddd38-fb5e-11e5-82d4-2b0027341338.png" 
   alt="img01" 

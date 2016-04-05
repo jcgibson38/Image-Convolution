@@ -47,3 +47,19 @@
   alt="img01_sharpen" 
   width = "266px"
   height = "200px"/>
+  
+<img 
+  src="https://cloud.githubusercontent.com/assets/10732162/14300410/4a1ddd38-fb5e-11e5-82d4-2b0027341338.png" 
+  alt="img01" 
+  width = "266px"
+  height = "200px"/>
+<img 
+  src="https://cloud.githubusercontent.com/assets/10732162/14300411/4a1e4746-fb5e-11e5-91e1-f6fb97be083a.png" 
+  alt="img01_edge" 
+  width = "266px"
+  height = "200px"/>
+<img 
+  src="https://cloud.githubusercontent.com/assets/10732162/14300412/4a1eee62-fb5e-11e5-960e-13b44f52d58d.png" 
+  alt="img01_sharpen" 
+  width = "266px"
+  height = "200px"/>
